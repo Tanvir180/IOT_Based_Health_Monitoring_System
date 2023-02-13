@@ -11,18 +11,18 @@ The Internet  of Things  is considered  now  as one of  the  feasible  solutions
 CONCLUSION
 The Internet  of Things  is considered  now  as one of  the  feasible  solutions  for  any  remote  value tracking  especially  in  the  field  of  health monitoring.  In  this  paper,  an  IoT  based  health monitoring  system  was  developed.  The  system monitored body  pulse  rate and  oxygen  saturation using  sensors,  which  are  also  displayed  on  an LCD.  These  sensor  values  are  then  sent  to  the App and also creates an IP address if required.by entering these calculated values in the website we can predict heart disease.The Internet  of Things  is considered  now  as one of  the  feasible  solutions  for  any  remote  value tracking  especially  in  the  field  of  health monitoring. An IoT based health monitoring system was developed.  The system monitored body pulse rate, body temperature and ECG using sensors. The main objectives of the work:
 
-	To design a portable home based Tele-Health monitoring system for elderly patient.
-	Transmission of digital data of the physical parameters and its analysis using wireless communications.
-	All the sensors can monitor simultaneously and sends the results to the authenticated person.
-	Provide medical assistance according to the data received i.e. heart rate, ECG, body temperature.
+	To design a portable home based Tele-Health monitoring system for elderly patient.
+	Transmission of digital data of the physical parameters and its analysis using wireless communications.
+	All the sensors can monitor simultaneously and sends the results to the authenticated person.
+	Provide medical assistance according to the data received i.e. heart rate, ECG, body temperature.
   
 
 Features:
-	Here are some special features of my project.
-•	Patients heart rate measurement.
-•	Patients body temperature measurement.
-•	Patients ECG measurement.
-•	All the data about the patients can be send doctor or can be store in cloud-based system, then alert the patient.
+	1. Here are some special features of my project.
+	2. Patients heart rate measurement.
+	3. Patients body temperature measurement.
+	4. Patients ECG measurement.
+	5. All the data about the patients can be send doctor or can be store in cloud-based system, then alert the patient.
 
 There are three sensor ECG sensor, Body Temperature sensor and Heart Rate sensor each of them will connected with the human body. Each of the sensor will retrieve the data from human body and pass it to the Arduino UNO to generate analog to digital signal. When the data is completely processed it will send the data through ESP8286 to the database or cloud storage. Then the doctor or the patient can see the condition of the heart and body.
 
