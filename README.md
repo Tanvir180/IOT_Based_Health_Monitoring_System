@@ -18,11 +18,11 @@ The Internet  of Things  is considered  now  as one of  the  feasible  solutions
   
 
 Features:
-	1. Here are some special features of my project.
-	2. Patients heart rate measurement.
-	3. Patients body temperature measurement.
-	4. Patients ECG measurement.
-	5. All the data about the patients can be send doctor or can be store in cloud-based system, then alert the patient.
+	 Here are some special features of my project.
+	1. Patients heart rate measurement.
+	2. Patients body temperature measurement.
+	3. Patients ECG measurement.
+	4. All the data about the patients can be send doctor or can be store in cloud-based system, then alert the patient.
 
 There are three sensor ECG sensor, Body Temperature sensor and Heart Rate sensor each of them will connected with the human body. Each of the sensor will retrieve the data from human body and pass it to the Arduino UNO to generate analog to digital signal. When the data is completely processed it will send the data through ESP8286 to the database or cloud storage. Then the doctor or the patient can see the condition of the heart and body.
 
